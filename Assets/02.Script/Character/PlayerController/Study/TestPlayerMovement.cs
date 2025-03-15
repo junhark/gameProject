@@ -116,3 +116,10 @@ public class TestPlayerMovement : MonoBehaviour
         staminaBar.value = staminaManager.CurrentStamina;
     }
 }
+
+/*
+ 불릿 관련 더 정리해서 분리하기
+스크립터블 적용해보기
+프로젝트 공유하기
+*/
+
